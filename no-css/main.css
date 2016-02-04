@@ -1,0 +1,111 @@
+body{
+
+	background-color: lightblue;
+}
+
+
+.header {
+	text-align: center; 
+	font-size: 30px;
+	color: black;
+	font-family: helvetica;
+	margin:50px;
+
+	
+}
+
+.place {
+	text-align: center;
+	margin-bottom: 20px;
+	margin-right:20px
+
+
+}
+
+
+.place.desert{
+	border:90px;
+	margin-bottom: 20px;
+	background:orange;
+	border-color: yellow;
+	text-align: center;
+	padding: 20px;
+	color:brown;
+	border-width: 20px;
+	border-style:solid;
+
+
+} 
+
+.place-footer.desert{
+	border:90px;
+	margin-bottom: 20px;
+	background:orange;
+	text-align: center;
+	padding: 20px;
+	color:brown;
+	margin-right:7px
+
+
+}
+
+
+
+.place.jungle {
+	border:90px;
+	margin-bottom: 20px;
+	background:darkgreen;
+	text-align: center;
+	padding: 20px;
+	color:yellow;
+	border-width: 20px;
+	border-style:solid;
+	border-color: green;
+
+	}
+
+
+.place-footer.jungle {
+	border:90px;
+	margin-bottom: 20px;
+	background:darkgreen;
+	text-align: center;
+	padding: 20px;
+	color:yellow;
+	
+
+	}
+
+	.place.city {
+	border:90px;
+	margin-bottom: 20px;
+	background:grey;
+	text-align: center;
+	padding: 20px;
+	color:white;
+	border-width: 20px;
+	border-style:solid;
+	border-color: black;
+
+}
+
+
+
+.place-footer.city {
+	border:90px;
+	margin-bottom: 20px;
+	background:grey;
+	text-align: center;
+	padding: 20px;
+	color:white;
+	border-width: 20px;
+	
+
+
+
+
+
+
+
+
+	
